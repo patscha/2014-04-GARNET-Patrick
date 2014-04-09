@@ -1,6 +1,8 @@
 Author: patrick
 
+<<<<<<< HEAD
 Title: dunno
 
 data: blablabla
-analysis
+analyses
+>>>>>>> version2
